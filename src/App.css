@@ -1,0 +1,23 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  background-image: url(./67278.jpg);
+  /*background-size: cover;*/
+   background-position: center;
+
+}
+.box{
+  background-color: rgba(300, 300, 300, 0.4);
+}
+.search{
+  background-color: white;
+}
+.display{
+  background-color: rgba(300, 300, 300, 0.1);
+  border-radius: 5px;
+}
+/*.picture{
+  height: 30%;
+  width: 30%;
+  border-radius: 3px;
+}*/
